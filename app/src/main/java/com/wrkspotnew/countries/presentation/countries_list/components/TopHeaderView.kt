@@ -42,7 +42,7 @@ fun TopHeaderView(modifier: Modifier = Modifier) {
         //Name
         Text(
             text = stringResource(R.string.app_name),
-            fontSize = 14.sp,
+            fontSize = 18.sp,
             fontWeight = FontWeight.Bold,
             color = contentColor
         )
