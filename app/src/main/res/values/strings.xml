@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wrkspot</string>
+    <string name="population">Population</string>
+    <string name="currency">Currency</string>
+    <string name="capital">Capital</string>
+    <string name="filter_by_population">Filter by Population</string>
+    <string name="search_by_country">Search by Country</string>
+    <string name="clear_search">Clear search</string>
+    <string name="no_countries_found">No countries found</string>
+</resources>
