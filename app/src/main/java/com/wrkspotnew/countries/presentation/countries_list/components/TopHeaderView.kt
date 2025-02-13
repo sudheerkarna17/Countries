@@ -32,7 +32,7 @@ fun TopHeaderView(modifier: Modifier = Modifier) {
         Color.Black
     }
     Row(
-        modifier = Modifier
+        modifier = modifier
             .fillMaxWidth()
             .padding(all = 12.dp),
         verticalAlignment = Alignment.CenterVertically,
